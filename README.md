@@ -46,9 +46,13 @@ accuracy
 
 ## Output:
 ![](1.png)
+
 ![](2.png)
+
 ![](3.png)
+
 ### ACCURACY
+
 ![](4.png)
 
 ## Result:
